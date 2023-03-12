@@ -11,7 +11,7 @@ The intention here is to create a web app using Django that tracks calories inta
   - Create virtualenv for Python 3.9
 
   - Run the command `pip install -r requirements.txt` 
-  - 
+   
   - Run the command `./manage.py makemigrations` and `./manage.py migrate` or just use `make migrate` 
 
   - Run `./manage.py runserver` or `make run` to start the server
